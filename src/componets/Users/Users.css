@@ -1,0 +1,13 @@
+img {
+    width: auto;
+    height: 50px;
+}
+
+.selectedPage {
+    color: red;
+}
+
+span {
+    margin-right: 5px;
+    cursor: pointer;
+} 

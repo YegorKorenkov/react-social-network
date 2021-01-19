@@ -1,0 +1,16 @@
+.nav_item {
+    list-style: none;
+}
+
+.nav_item a {
+    color: rgb(99, 94, 94);
+    text-decoration: none;
+}
+
+.nav_item a:hover {
+    color: rgb(127, 127, 131);
+}
+
+.nav_item a.active {
+    color: goldenrod;
+}

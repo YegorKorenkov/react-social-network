@@ -1,0 +1,12 @@
+.description_block {
+    padding: 10px;
+}
+
+.contacts-list {
+    list-style: none;
+}
+
+.job img {
+    width: 40px;
+    height: auto;
+}

@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+                    "id": 1,
+                    "followed": true,
+                    "photoUrl": "https://i2.wp.com/www.movies.ie/wp-content/uploads/2019/12/thegentlemencolinfarrell2.jpg?fit=750%2C400",
+                    "fullName": "Dmitriy",
+                    "status": "I'm a funny man",
+                    "location": {
+                        "city": "Minsk",
+                        "country": "Belarus"
+                    }
+                },
+                {
+                    "id": 2,
+                    "followed": false,
+                    "photoUrl": "https://i2.wp.com/www.movies.ie/wp-content/uploads/2019/12/thegentlemencolinfarrell2.jpg?fit=750%2C400",
+                    "fullName": "Alex",
+                    "status": "I'm a cool man",
+                    "location": {
+                        "city": "Kiev",
+                        "country": "Ukraine"
+                    }
+                },
+                {
+                    "id": 3,
+                    "followed": true,
+                    "photoUrl": "https://i2.wp.com/www.movies.ie/wp-content/uploads/2019/12/thegentlemencolinfarrell2.jpg?fit=750%2C400",
+                    "fullName": "Serg",
+                    "status": "I'm a good man",
+                    "location": {
+                        "city": "Moscow",
+                        "country": "Russia"
+                    }
+                }
+    ]
+}
